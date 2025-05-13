@@ -1,0 +1,27 @@
+table tr td {
+	border: 1px solid black; /* borda da tabela */
+}
+
+table{
+	width: 80%; /*largura da tabela*/
+	margin: auto;/*alinhamento centralizado da tabela*/
+}
+
+button{
+	color: 	#000000;/*cor do butão*/
+	background-color: 	#FFFF00; /*cor de fundo do butão*/
+	font-size: 15px;/*tamanho da fonte*/
+	border-radius: 20px 20px 20px 20px; /*arredonda os cantos*/
+	margin-top: 20px;/*a margem do topo do butão*/
+	margin-bottom: 20px;/*margem de baixo do butão*/
+	margin-left: 20px;/* margem a esquerda*/
+	margin-right: 20px;/*margem a direito*/
+
+	/*margin: 20px 20px 20px 50px;o priemiro valor o topo, o segundo e dirito, o terceiro baixo, e quarto valor esquerdo*/
+
+	padding-top: 5px;/* margem interna topo*/
+	padding-bottom: 5px;/* margem interna inferior*/
+	padding-left: 5px;/* margem interna direita*/
+	padding-right: 5px;/*margen interna esquerda*/
+
+}
