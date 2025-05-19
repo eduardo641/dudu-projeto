@@ -29,12 +29,12 @@ button{
 		color: black;
 		font-size: 50px;
 		font-family: 'Ravie';
-		text-align: justify;
-		padding-left: 20px;
-		padding-right: 20px;
 	}
 	p{
 		color:blue ;
 		font-size: 30px;
-		font-family: 'arial';
+		font-family: 'Mr Dafoe', cursive;
+		text-align: justify;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
